@@ -18,7 +18,7 @@ Setup Instructions
 	• Place the script (FileSorter.py) in any directory of your choice.
 You can change the directory you wish to organize by simply editing "Downloads" on line 3
 
-<img width="587" alt="Screenshot 2025-01-07 at 9 46 05 PM" src="https://github.com/user-attachments/assets/e5683449-58a4-4df6-8d5c-3aac045ed929" />
+
 
 
 Usage
